@@ -1,0 +1,10 @@
+pandas
+numpy
+lightgbm
+osmnx
+geopandas
+fiona
+scikit-learn
+joblib
+matplotlib
+optuna
