@@ -67,6 +67,8 @@ p_Low * y_Low + p_Mid * y_Mid + p_High * y_High → 予測価格
 |High(3000万円)|15.5963|12.3667|
 |全体|18.5156|16.4793|
 
+<img src="Price-MAPE.png" width="500">
+
 全体的にTwo-Stageモデルで結果が良化。ただし低価格帯の評価値は良くありません。
 
 ## 結論
